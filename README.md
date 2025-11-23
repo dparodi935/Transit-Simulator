@@ -1,5 +1,5 @@
 # Transit-Simulator
-Program that allows you to create a planetary system and visualise the effect on the starlight.
+Program that allows you to create a planetary system and visualise the effect on the starlight. Code is based off Chapter 8 from the book "Real-World Python" by Lee Vaughan, with my main addition being the system customisation. 
 
 Features:
 - Set the orbits and sizes of planets and their moons
